@@ -1,0 +1,27 @@
+From a06b939cc3ec6bab7309f7ce27e04ffae432bdff Mon Sep 17 00:00:00 2001
+From: Alex Dominguez <48492690+whatZli@users.noreply.github.com>
+Date: Wed, 1 Jul 2020 16:46:23 +0200
+Subject: Segundo commit
+
+
+diff --git a/.gitignore b/.gitignore
+index e69de29..62f2b1e 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -0,0 +1,5 @@
++*.log
++.git/
++.vscode/
++!example.log
++exclude/
+\ No newline at end of file
+diff --git a/app.py b/app.py
+index e69de29..d142f44 100644
+--- a/app.py
++++ b/app.py
+@@ -0,0 +1 @@
++prueba
+\ No newline at end of file
+diff --git a/example.log b/example.log
+new file mode 100644
+index 0000000..e69de29
